@@ -1,0 +1,6 @@
+streamlit
+speechRecognition
+openai-whisper
+Deepgram-sdk
+AssemblyAI
+numpy
